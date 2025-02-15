@@ -1,57 +1,65 @@
-# 🎓 **IEEE FCIH S'25 - Official GitHub Organization**  
+![logo ieee (1)](https://github.com/user-attachments/assets/0db4717d-fe13-4add-aeff-d8ab96f267b7)
 
-Welcome to the **IEEE FCIH Student Branch 2025** GitHub Organization! 🚀 This is the central hub for all our technical projects, collaborations, and innovations.  
+# **IEEE FCIH S'25** 🚀  
 
-## 🌟 **About IEEE FCIH S'25**  
-IEEE FCIH (Faculty of Computers and Artificial Intelligence, Helwan University) is a student branch dedicated to fostering innovation, collaboration, and learning in the fields of **software engineering, AI, cybersecurity, game development, embedded systems, and more**.  
+Welcome to the **IEEE FCIH Season 2025 (S'25) Repository**! 🎉  
 
-Our mission is to:  
-✅ Build real-world projects using cutting-edge technologies.  
-✅ Conduct workshops, hackathons, and technical events.  
-✅ Enhance members' technical and soft skills.  
-✅ Provide a platform for collaboration and knowledge-sharing.  
+This repository contains all **projects, workshops, resources, and activities** for the **2025 season** of IEEE FCIH. We aim to **empower students** with cutting-edge **technical skills, hands-on projects, and collaborative learning experiences** across various fields, including **AI, Web Development, Data Science, Game Development, and more!**  
 
 ---
 
-## 🚀 **Our Committees & Projects**  
-Here’s an overview of our active teams and projects:  
+## 🔥 **About IEEE FCIH S'25**  
+IEEE FCIH S’25 is a **seasonal program** where students engage in:  
+✅ **Workshops & Training Sessions** – Learn from industry experts and experienced members.  
+✅ **Technical Projects** – Work on real-world projects across different domains.  
+✅ **Hackathons & Competitions** – Challenge yourself and build innovative solutions.  
+✅ **Networking & Collaboration** – Connect with like-minded individuals and professionals.  
+
+---
+
+## 📌 **Contents of This Repository**  
+
+📂 **Projects** – List of projects from different technical committees.  
+📂 **Workshops** – Tutorials, slides, and materials from our sessions.  
+📂 **Resources** – Helpful links, learning paths, and documentation.  
+📂 **Events** – Information about upcoming events, hackathons, and talks.  
+
+---
+
+## 🚀 **Our Technical Committees**  
 
 | 🏛 Committee | 🔥 Description | 📂 Repository |
 |-------------|--------------|-------------|
-| **Frontend Development** | Web UI/UX & React.js projects | [Frontend Repo](#) |
-| **Backend Development** | APIs, databases & security | [Backend Repo](#) |
-| **Machine Learning & AI** | AI models & automation | [AI/ML Repo](#) |
-| **Game Development** | Unity & Unreal Engine projects | [Game Dev Repo](#) |
-| **Mobile Development** | Flutter & Android/iOS apps | [Mobile Repo](#) |
-| **Data Analysis** | Exploratory data analysis, dashboards & insights | [Data Analysis Repo](#) |
+| **Frontend Development** | Web UI/UX & React.js projects | [Frontend Repo](https://github.com/IEEE-FCIH-SB/Front-End-Content-2025) |
+| **Backend Development** | APIs, databases & security | [Backend Repo](https://github.com/IEEE-FCIH-SB/Back-End-Content-2025) |
+| **Machine Learning & AI** | AI models & automation | [AI/ML Repo](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025) |
+| **Game Development** | Unity & Unreal Engine projects | [Game Dev Repo](https://github.com/IEEE-FCIH-SB/Game-Dev-Content-2025) |
+| **Mobile Development** |Build apps using flutter | [Mobile Repo](https://github.com/IEEE-FCIH-SB/Mobile-Dev-Content-2025) |
+| **Data Analysis** | Exploratory data analysis, dashboards & insights | [Data Analysis Repo](https://github.com/IEEE-FCIH-SB/Data-analysis-Content-2025) |
 
 
----
 
-## 🤝 **Contribution Guidelines**  
-We welcome contributions from all members! Follow these steps:  
-📌 **Use meaningful commit messages.**  
-📌 **Follow best practices for coding & documentation.**  
-📌 **Review and test your code before submitting PRs.**  
-📌 **Respect GitHub community guidelines.**  
+Each committee will have its own subdirectory with relevant materials, projects, and documentation.  
 
 ---
 
-## 📧 **Contact & Community**  
-Stay connected with us!  
-🔗 **GitHub Discussions**: [Join Here](#)  
-💬 **Slack / Discord**: [Join IEEE FCIH Community](#)  
-📧 **Email**: ieee-fcih@yourdomain.com  
+## 🌍 **Connect With IEEE FCIH**  
+Stay updated and follow us on:  
+
+🌍 **Official Website**: https://www.ieeefcih.com (Currently under maintenance 🚧) <br/>
+📱 **Facebook**: https://www.facebook.com/IEEE.FCIH <br/>
+👔 **Linkedin**: https://www.linkedin.com/company/ieee-fcih-sb <br/>
+🎥 **Youtube**: https://www.youtube.com/@ieee.fcihsb <br/>
+📧 **Email**:  ieeefcihsb.hr@gmail.com <br/>
+
+<p align="center">
+  <a href="https://www.facebook.com/IEEE.FCIH"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/ieeefcih.sb/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/ieee-fcih-sb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ieee.fcihsb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 ---
 
-## 🏆 **Acknowledgments**  
-Huge thanks to our **IEEE FCIH 2025 Team** & all contributors for making this an amazing community! 🙌  
+🔥 _Let's make this season amazing together!_ 🚀  
 
-🔹 **IEEE FCIH Official Website**: [Visit](#)  
-🔹 **Follow us on LinkedIn**: [IEEE FCIH](https://www.linkedin.com/company/ieee-fcih-sb)  
-🔹 **Join our Facebook Group**: [IEEE FCIH Community](https://www.facebook.com/IEEE.FCIH)  
-
----
-
-### 🎉 **Let’s Build the Future, Together!** 🚀  
