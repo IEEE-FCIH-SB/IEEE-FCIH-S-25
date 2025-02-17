@@ -30,7 +30,7 @@ IEEE FCIH S’25 is a **seasonal program** where students engage in:
 
 | 🏛 Committee | 🔥 Description | 📂 Repository |
 |-------------|--------------|-------------|
-| **Frontend Development** | Web UI/UX & React.js projects | [Frontend Repo](https://github.com/IEEE-FCIH-SB/Front-End-Content-2025) |
+| **Frontend Development** | Web UI/UX & Angular.js projects | [Frontend Repo](https://github.com/IEEE-FCIH-SB/Front-End-Content-2025) |
 | **Backend Development** | APIs, databases & security | [Backend Repo](https://github.com/IEEE-FCIH-SB/Back-End-Content-2025) |
 | **Machine Learning & AI** | AI models & automation | [AI/ML Repo](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025) |
 | **Game Development** | Unity & Unreal Engine projects | [Game Dev Repo](https://github.com/IEEE-FCIH-SB/Game-Dev-Content-2025) |
